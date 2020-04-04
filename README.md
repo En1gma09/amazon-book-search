@@ -1,4 +1,4 @@
-Amazon Book Search
+# **Amazon Book Search**
 
 # **About the Project** 
 
